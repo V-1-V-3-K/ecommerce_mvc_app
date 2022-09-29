@@ -7,10 +7,10 @@ THe project contains 4 files.
 3. mvc-app -> Eureka client app that makes request to use product-service and order-service.
 
 Port Numbers;-
-1.service-registry : 8761 
-2.product-service  : 5050
-3.order-service    : 5055
-4.mvc-app          : 8000
+1. service-registry : 8761
+2. product-service  : 5050
+3. order-service    : 5055
+4. mvc-app          : 8000
 
 Steps to use MVC App
 1. Start the service-registry app
